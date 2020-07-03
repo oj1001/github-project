@@ -1,3 +1,4 @@
 version 2
 this is functions version 
 NOW editing
+no more beuty
